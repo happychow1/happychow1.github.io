@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : ""
+title                    : "HappyChow"
 title_separator          : "-"
 name                     : &name "Zhou Yanpeng"
 description              : &description "personal description"
@@ -23,6 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
+  uri1             : # URL
   name             : "Zhou Yanpeng(周滟朋)"
   employer         : "Huawei Noah’s Ark Laboratory"
   uri              : # URL
