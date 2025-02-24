@@ -36,22 +36,22 @@ We are now recruiting project/research interns. If you are interested in, please
 <div class="publication">
   <div class="info">
     <h3>Unified Language-Image-3D Pretraining with Gaussian Splatting</h3>
-    <p><strong>Authors:</strong> Haoyuan Li,Yanpeng Zhou, Tao Tang, Jifei Song, Yihan Zeng, Michael Kampffmeyer, Hang Xu, Xiaodan Liang</p>
+    <p><strong>Authors:</strong> Haoyuan Li, <strong>Yanpeng Zhou</strong>, Tao Tang, Jifei Song, Yihan Zeng, Michael Kampffmeyer, Hang Xu, Xiaodan Liang</p>
     <p><strong>Conference:</strong> The International Conference on Learning Representations (ICLR) , 2025.</p>
   </div>
   <div class="image">
-    <img src="http://academicpages.github.io/images/unigs.png" alt="Abstract Image">
+    <img src="http://happychow1.github.io/images/unigs.png" alt="Abstract Image">
   </div>
 </div>
 
 <div class="publication">
   <div class="info">
     <h3>Unifying Image and Text Recognition in One Vision Encoder</h3>
-    <p><strong>Authors:</strong>  Yi Zhu, Yanpeng Zhou,Chunwei Wang, Yang Cao, Jianhua Han, Lu Hou, Hang Xu</p>
+    <p><strong>Authors:</strong>  Yi Zhu, <strong>Yanpeng Zhou</strong>,Chunwei Wang, Yang Cao, Jianhua Han, Lu Hou, Hang Xu</p>
     <p><strong>Conference:</strong> Neural Information Processing Systems (NeurIPS), 2024.</p>
   </div>
   <div class="image">
-    <img src="http://academicpages.github.io/images/unit.png" alt="Abstract Image">
+    <img src="http://happychow1.github.io/images/unit.png" alt="Abstract Image">
   </div>
 </div>
 
