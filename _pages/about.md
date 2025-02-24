@@ -20,7 +20,7 @@ We are now recruiting project/research interns. If you are interested in, please
   }
   .publication .info {
     flex: 1;
-    margin-right: 10px;
+    margin-right: 15px;
   }
   .publication .image {
     width: 200px;
@@ -29,7 +29,7 @@ We are now recruiting project/research interns. If you are interested in, please
   .publication img {
     width: 100%;
     height: auto;
-    border-radius: 5px;
+    border-radius: 8px;
   }
 </style>
 
