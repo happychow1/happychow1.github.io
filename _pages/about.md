@@ -23,8 +23,8 @@ We are now recruiting project/research interns. If you are interested in, please
     margin-right: 20px;
   }
   .publication .image {
-    width: 400px; /* 固定图片宽度 */
-    height: 300px; /* 固定图片高度 */
+    width: 200px; /* 固定图片宽度 */
+    height: 150px; /* 固定图片高度 */
     overflow: hidden; 
     border-radius: 8px; /* 可选：添加圆角效果 */
   }
