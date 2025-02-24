@@ -20,16 +20,19 @@ We are now recruiting project/research interns. If you are interested in, please
   }
   .publication .info {
     flex: 1;
-    margin-right: 15px;
+    margin-right: 20px;
   }
   .publication .image {
-    width: 200px;
-    height: auto;
+    width: 400px; /* 固定图片宽度 */
+    height: 300px; /* 固定图片高度 */
+    overflow: hidden; 
+    border-radius: 8px; /* 可选：添加圆角效果 */
   }
   .publication img {
     width: 100%;
-    height: auto;
-    border-radius: 8px;
+    height: 100%;
+    object-fit: fill; /* 保持图片比例并填充整个区域 */
+    border-radius: 8px; /* 可选：添加圆角效果 */
   }
 </style>
 
