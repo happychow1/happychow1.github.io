@@ -38,7 +38,7 @@ We are now recruiting project/research interns. If you are interested in, please
 
 <div class="publication">
   <div class="info">
-    <h3>Unified Language-Image-3D Pretraining with Gaussian Splatting</h3>
+    <h3>UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting</h3>
     <p><strong>Authors:</strong> Haoyuan Li, <strong>Yanpeng Zhou</strong>, Tao Tang, Jifei Song, Yihan Zeng, Michael Kampffmeyer, Hang Xu, Xiaodan Liang</p>
     <p><strong>Conference:</strong> The International Conference on Learning Representations (ICLR) , 2025.</p>
   </div>
@@ -49,8 +49,8 @@ We are now recruiting project/research interns. If you are interested in, please
 
 <div class="publication">
   <div class="info">
-    <h3>Unifying Image and Text Recognition in One Vision Encoder</h3>
-    <p><strong>Authors:</strong>  Yi Zhu, <strong>Yanpeng Zhou</strong>,Chunwei Wang, Yang Cao, Jianhua Han, Lu Hou, Hang Xu</p>
+    <h3>UNIT: Unifying Image and Text Recognition in One Vision Encoder</h3>
+    <p><strong>Authors:</strong>  Yi Zhu, <strong>Yanpeng Zhou</strong>, Chunwei Wang, Yang Cao, Jianhua Han, Lu Hou, Hang Xu</p>
     <p><strong>Conference:</strong> Neural Information Processing Systems (NeurIPS), 2024.</p>
   </div>
   <div class="image">
