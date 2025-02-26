@@ -3,7 +3,7 @@ title: "Effect of deposition potential and concentration of electroactive substa
 collection: publications
 category: manuscripts
 permalink: /publication/2019-03-28-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+venue: 'Nanotechnology'
 date: 2019-03-28
 citation: 'Wenxin L, Wangchen Z, Yanpeng Z, et al. Effect of deposition potential and concentration of electroactive substances on Bi2Te3 nanowires fabricated by electrochemical method[J]. Nanotechnology, 2019, 30(24): 245702.'
 ---

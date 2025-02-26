@@ -1,9 +1,10 @@
 ---
 title: "Investigating robustness of biological vs. backprop based learning"
-collection: publications
+collection: conferences
 category: manuscripts
 permalink: /publication/2022-05-13-paper-title-number-3
 date: 2022-05-13
+venue: 'ICASSP'
 citation: 'Zhou Y, Wang M, Gupta M, et al. Investigating robustness of biological vs. backprop based learning[C]//ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2022: 3533-3537.'
 ---
 

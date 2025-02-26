@@ -4,6 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2020-06-18-paper-title-number-2
 date: 2020-06-18
+venue: 'Optical Materials Express'
 citation: 'Zhou Y, Liu Y, Li Y, et al. Flexible radiative cooling material based on amorphous alumina nanotubes[J]. Optical Materials Express, 2020, 10(7): 1641-1648.'
 ---
 
