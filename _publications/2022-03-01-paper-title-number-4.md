@@ -1,7 +1,7 @@
 ---
 title: "AI as an Active Writer: Interaction strategies with generated text in human-AI collaborative fiction writing"
-collection: publications
-category: conferences
+collection: conferences
+category: manuscripts
 permalink: /publication/2022-03-01-paper-title-number-4
 date: 2022-03-01
 venue: 'Joint Proceedings of the ACM IUI Workshops'
